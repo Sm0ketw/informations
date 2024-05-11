@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(235, 195, 146, 0.925);
+}
+
+img{border-radius: 100px;
+}
+h1 {
+    font-family: fantasy;
+}
+
+ h1 {
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style : normal;
+  }
+  #conteudo img {
+    height: 350px;
+    width: 415px;
+  }
+  
+  #site img {
+    height: 500px;
+    width: 850px;
+    transition: transform 0.3s ease;
+  }
+  #gato img {
+    height: 300px;
+    width: 400px;
+    transform: scale(1.2);
+  }
+    
+  
+    
+  
+
+  
